@@ -11,6 +11,29 @@ H1{
     margin : 0;
 }
 
+H2{
+    font-size : 20px;
+    
+}
+
+H3{
+    font-size : 16px;
+    margin : 20px 0 -20px 0;
+}
+
+IMG#me{
+    float : right;
+    margin : 8px 0 20px 20px;
+}
+
+#container P A{
+    color : #167799;
+    text-decoration : none;
+}
+#container P A:hover{
+    text-decoration : underline;
+}
+
 #lefttop{
     width : 850px;
     height : 649px;
@@ -51,7 +74,7 @@ H1{
 }
 
 #page p{
-    margin : 30px 0 30px 0;
+    margin : 20px 0 20px 0;
 }
 
 .nav, .nav a{
